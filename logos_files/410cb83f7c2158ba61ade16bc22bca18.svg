@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" id="Layer_1" xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;" xmlns:graph="&amp;ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 315 272.8" style="enable-background:new 0 0 315 272.8;" xml:space="preserve">
+      <style type="text/css">.st0{fill:#005763;}	.st1{fill:#9ED67A;}	.st2{fill:#8AFF3E;}	.st3{fill:#D3FFB6;}</style>
+    <metadata>
+              <sfw>
+                      <slices/>
+            <sliceSourceBounds bottomLeftOrigin="true" height="272.8" width="315" x="0" y="0"/>
+                  </sfw>
+          </metadata>
+    <g id="color_index_3" fill="#005763">
+              <polygon points="102,148.6 78.8,272.8 236.3,272.8 211.1,148.6 &#x9;"/>
+          </g>
+    <g id="color_index_2" fill="#9ed67a">
+              <polygon points="236.3,272.8 315,136.4 265.5,50.7 233.2,98 206.1,153.6 &#x9;"/>
+          </g>
+    <g id="color_index_1" fill="#8aff3e">
+              <polygon points="48.6,52.3 0,136.4 78.7,272.8 107,153.6 84,105.1 &#x9;"/>
+          </g>
+    <g id="color_index_0" fill="#d3ffb6">
+              <polygon points="107,153.6 206.1,153.6 265.5,50.6 236.2,0 78.7,0 48.6,52.3 &#x9;"/>
+          </g>
+  </svg>
